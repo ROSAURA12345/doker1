@@ -1,0 +1,5 @@
+service\OhmService.class
+service\ServicioA.class
+service\ServicioAImpl.class
+service\ServicioB.class
+service\ServicioBImpl.class
